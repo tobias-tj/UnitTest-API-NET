@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF943D-8A37-40A8-B29B-10314E207455}|TestAPI\\TestAPI.csproj|c:\\users\\tjara\\source\\repos\\demounittesting\\testapi\\repository\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF943D-8A37-40A8-B29B-10314E207455}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\repository\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683712CF-2593-4F3F-804E-D5903F74D4C9}|Api\\Api.csproj|c:\\users\\tjara\\source\\repos\\demounittesting\\api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683712CF-2593-4F3F-804E-D5903F74D4C9}|Api\\Api.csproj|solutionrelative:api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683712CF-2593-4F3F-804E-D5903F74D4C9}|Api\\Api.csproj|c:\\users\\tjara\\source\\repos\\demounittesting\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{683712CF-2593-4F3F-804E-D5903F74D4C9}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683712CF-2593-4F3F-804E-D5903F74D4C9}|Api\\Api.csproj|c:\\users\\tjara\\source\\repos\\demounittesting\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683712CF-2593-4F3F-804E-D5903F74D4C9}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T19:51:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:50:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\Api\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\Api\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Api\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:08:01.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\TestAPI\\Repository\\UserRepositoryTest.cs",
+              "RelativeDocumentMoniker": "TestAPI\\Repository\\UserRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\DemoUnitTesting\\TestAPI\\Repository\\UserRepositoryTest.cs",
+              "RelativeToolTip": "TestAPI\\Repository\\UserRepositoryTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:01:55.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
