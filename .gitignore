@@ -1,0 +1,76 @@
+# Archivos generados por Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Build resultados
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+.lldb
+.ionide
+
+# Archivos generados por NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos generados por Rider
+.idea/
+*.sln.iml
+
+# Archivos de usuario específicos
+*.rsuser
+*.resharper.user
+*.Rider/
+
+# Archivos de configuración de usuario de Visual Studio
+*.vsconfig
+.vscode/
+
+# Archivos de configuración de entorno
+.env
+
+# Paquetes de configuración global de paquete
+global_packages/
+NCrunchTemp/
+*_CodeCoverage/
+
+# Archivos de publicación/implementación
+.publish/
+.publishProfiles/
+.vscode/
+
+# Logs y otros archivos temporales
+*.log
+*.tlog
+*.cache
+*.tmp
+*.temp
+*.pid
+*.swp
+
+# Archivos específicos de NuGet
+.nuget/
+*.nuget.props
+*.nuget.targets
+
+# Archivos de la carpeta obj, bin, etc.
+[Bb]in/
+[Oo]bj/
